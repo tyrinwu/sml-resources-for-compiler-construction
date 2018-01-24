@@ -6,11 +6,16 @@
 [Standard ML of New Jersey User's Guide](http://www.smlnj.org/doc/)  
 
 [Syntax Cheat Sheet](http://rigaux.org/language-study/syntax-across-languages-per-language/SML.html)   
+[Cheat Sheet 2](www.cs.cornell.edu/courses/cs312/2003fa/handouts/cheatsheet.pdf)  
 [Errors Meanings](http://flint.cs.yale.edu/cs421/smlnj/doc/errors.html)   
 [SML mode Ref](https://www.smlnj.org/doc/Emacs/sml-mode.html)  
 
-## Stack Overflow Qustions 
+## Related Courses
 
-[Understanding foldl in ml](https://stackoverflow.com/questions/14738120/understanding-foldl-in-ml)  
+[15-417 HOT Compilation Spring](http://www.cs.cmu.edu/~crary/hotc/)  
+[Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs312/2008sp/)  
+[Introduction to Type Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15814-f03/www/)  
 
+## SO Interesting to read
 
+[In SML, how to assert that a particular exception is thrown?](https://stackoverflow.com/questions/5987444/in-sml-how-to-assert-that-a-particular-exception-is-thrown)
