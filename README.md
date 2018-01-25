@@ -10,11 +10,15 @@
 [Errors Meanings](http://flint.cs.yale.edu/cs421/smlnj/doc/errors.html)   
 [SML mode Ref](https://www.smlnj.org/doc/Emacs/sml-mode.html)  
 
+## Tutorials
+[Tutorial from CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/lectures/lec-sml.pdf)  
+
 ## Related Courses
 
 [15-417 HOT Compilation Spring](http://www.cs.cmu.edu/~crary/hotc/)  
 [Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs312/2008sp/)  
 [Introduction to Type Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15814-f03/www/)  
+[CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/)  
 
 ## SO Interesting to read
 
