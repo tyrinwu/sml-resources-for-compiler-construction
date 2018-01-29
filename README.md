@@ -5,12 +5,14 @@
 
 [Standard ML of New Jersey User's Guide](http://www.smlnj.org/doc/)  
 
+[ML-Lex manual](https://www.smlnj.org/doc/ML-Lex/manual.html)  
+
 [Syntax Cheat Sheet](http://rigaux.org/language-study/syntax-across-languages-per-language/SML.html)   
 [Cheat Sheet 2](www.cs.cornell.edu/courses/cs312/2003fa/handouts/cheatsheet.pdf)  
 [Errors Meanings](http://flint.cs.yale.edu/cs421/smlnj/doc/errors.html)   
 [SML mode Ref](https://www.smlnj.org/doc/Emacs/sml-mode.html)  
 
-## Tutorials
+## SML Tutorials
 [Tutorial from CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/lectures/lec-sml.pdf)  
 
 ## Related Courses
