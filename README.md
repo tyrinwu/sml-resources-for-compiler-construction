@@ -9,7 +9,7 @@
 [User’s Guide to ML-Lex and ML-Yacc](http://www.cs.tufts.edu/comp/181/ug.pdf)
 
 [Syntax Cheat Sheet](http://rigaux.org/language-study/syntax-across-languages-per-language/SML.html)   
-[Cheat Sheet 2](www.cs.cornell.edu/courses/cs312/2003fa/handouts/cheatsheet.pdf)  
+[Cheat Sheet 2](http://www.cs.cornell.edu/courses/cs312/2003fa/handouts/cheatsheet.pdf)  
 [Errors Meanings](http://flint.cs.yale.edu/cs421/smlnj/doc/errors.html)   
 [SML mode Ref](https://www.smlnj.org/doc/Emacs/sml-mode.html)  
 
