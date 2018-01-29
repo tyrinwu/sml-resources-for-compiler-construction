@@ -6,6 +6,7 @@
 [Standard ML of New Jersey User's Guide](http://www.smlnj.org/doc/)  
 
 [ML-Lex manual](https://www.smlnj.org/doc/ML-Lex/manual.html)  
+[User’s Guide to ML-Lex and ML-Yacc](http://www.cs.tufts.edu/comp/181/ug.pdf)
 
 [Syntax Cheat Sheet](http://rigaux.org/language-study/syntax-across-languages-per-language/SML.html)   
 [Cheat Sheet 2](www.cs.cornell.edu/courses/cs312/2003fa/handouts/cheatsheet.pdf)  
