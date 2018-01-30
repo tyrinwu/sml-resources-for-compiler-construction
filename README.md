@@ -5,6 +5,7 @@
 [Course Website](https://adhilton.pratt.duke.edu/ece-553-compiler-construction)  
 [Textbook Website](https://www.cs.princeton.edu/~appel/modern/ml/project.html)  
 
+[ASCII table](http://www.bluesock.org/~willg/dev/ascii.html)
 
 ### Lexical Analysis
 
@@ -32,6 +33,3 @@
 [Introduction to Type Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15814-f03/www/)  
 [CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/)  
 
-### SO Interesting to read
-
-[In SML, how to assert that a particular exception is thrown?](https://stackoverflow.com/questions/5987444/in-sml-how-to-assert-that-a-particular-exception-is-thrown)
