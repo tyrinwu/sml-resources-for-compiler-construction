@@ -10,7 +10,8 @@
 ### Lexical Analysis
 
 [ML-Lex manual](https://www.smlnj.org/doc/ML-Lex/manual.html)  
-[User’s Guide to ML-Lex and ML-Yacc](http://www.cs.tufts.edu/comp/181/ug.pdf)
+[User’s Guide to ML-Lex and ML-Yacc](http://www.cs.tufts.edu/comp/181/ug.pdf)  
+[ML-Yacc](https://www.cs.princeton.edu/~appel/modern/ml/ml-yacc/manual.html)  
 
 ---
 
@@ -33,6 +34,3 @@
 [Introduction to Type Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15814-f03/www/)  
 [CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/)  
 
-### emacs...
-
-[Ref Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
