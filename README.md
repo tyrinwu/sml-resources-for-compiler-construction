@@ -33,4 +33,10 @@
 [Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs312/2008sp/)  
 [Introduction to Type Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15814-f03/www/)  
 [CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/)  
+[CSCE 434-500: Compiler Design](https://parasol.tamu.edu/~rwerger/Courses/434/)  
+[CS 4610 - Programming Languages - Lectures](https://web.eecs.umich.edu/~weimerw/2009-4610/lectures.html)  <- focusing on motivation
+[Compiler course from Northwestern University](http://users.eecs.northwestern.edu/~jesse/course/csg262-sp08/)  
 
+### Parsing, grammar, all that good stuff...
+
+[Right-most derivation?](https://cs.stackexchange.com/questions/54814/different-between-left-most-and-right-most-derivation)
