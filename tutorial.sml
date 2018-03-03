@@ -128,6 +128,17 @@ fun makeCounter initVal =
 fun compound 0 f x = x 
   | compound n f x = compound (n-1) f (f x)
 
+
 fun exp b 0 = 1  
-  | exp b e = case compound e (fn (b, ans) => (b, ans*b)) (b, 1) of 
-              (b, ans) => ans
+  | exp b e = 
+    let fun f p x = p * x 
+    in 
+      compound e (f b) 1  
+    end
+
+fun exp b 0 = 1  
+  | exp b e = compound e (fn x => b*x) 1
+
+fun exp b 0 = 1
+  | exp b e = case compound e (fn (b, x) => (b, x*b)) of
+                   (b, ans) => ans
