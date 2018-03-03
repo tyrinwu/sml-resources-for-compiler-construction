@@ -22,6 +22,7 @@
 [Cheat Sheet 2](http://www.cs.cornell.edu/courses/cs312/2003fa/handouts/cheatsheet.pdf)  
 [Errors Meanings](http://flint.cs.yale.edu/cs421/smlnj/doc/errors.html)   
 [SML mode Ref](https://www.smlnj.org/doc/Emacs/sml-mode.html)  
+[The SML/NJ Compilation and Library Manager](http://smlnj.org/doc/CM/new.pdf)  
 
 ### SML Tutorials
 
