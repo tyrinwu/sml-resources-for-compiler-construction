@@ -24,6 +24,8 @@
 [SML mode Ref](https://www.smlnj.org/doc/Emacs/sml-mode.html)  
 [The SML/NJ Compilation and Library Manager](http://smlnj.org/doc/CM/new.pdf)  
 
+[Importing other modules](https://www.classes.cs.uchicago.edu/archive/2006/fall/15300-1/handouts/sml-load.pdf)  
+
 ### SML Tutorials
 
 [Tutorial from CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/lectures/lec-sml.pdf)  
