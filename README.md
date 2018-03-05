@@ -30,6 +30,8 @@
 
 [Tutorial from CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/lectures/lec-sml.pdf)  
 
+[Strcuture](https://www.cs.cmu.edu/~rwh/introsml/modules/sigstruct.htm)
+
 ### Related Courses
 
 [15-417 HOT Compilation Spring](http://www.cs.cmu.edu/~crary/hotc/)  
