@@ -161,3 +161,15 @@ fun catTreverse (leaf l) = l
     in
         String.concat (List.rev (helper (n::nil, [])))
     end
+
+fun cat (leaf l) = l
+  | cat (node n) =
+    let fun helper (nodeList, leaves) =
+            case nodeList of
+                nil => leaves
+              | x::xs => case x of
+                             leaf (l) => helper(xs, l::leaves)
+                           | node(a,b) => helper(a::b::xs, leaves)
+    in
+        String.concatWith " " (List.rev (helper ([node(n)], [])))
+    end
