@@ -142,3 +142,22 @@ fun exp b 0 = 1
 fun exp b 0 = 1
   | exp b e = case compound e (fn (b, x) => (b, x*b)) of
                    (b, ans) => ans
+
+(*https://stackoverflow.com/questions/49102648/making-a-tree-code-tail-recursive-in-sml-nj
+Making a tree code tail recursive in SML/NJ
+ *)
+datatype 'a tree =
+         leaf of 'a
+       | node of 'a tree * 'a tree
+
+fun catTreverse (leaf l) = l
+  | catTreverse n =
+    let fun helper (nodeList, leaves) =
+            case nodeList of
+                nil => leaves
+              | x::xs => case x of
+                              leaf (l) => helper(xs, l::leaves)
+                            | node(a,b) => helper(a::b::xs, leaves)
+    in
+        String.concat (List.rev (helper (n::nil, [])))
+    end
