@@ -26,6 +26,8 @@
 
 [Importing other modules](https://www.classes.cs.uchicago.edu/archive/2006/fall/15300-1/handouts/sml-load.pdf)  
 
+[Style Guild](https://www.cs.tufts.edu/comp/105-2017f/handouts/mlstyle.pdf)  
+
 ### SML Tutorials
 
 [Tutorial from CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/lectures/lec-sml.pdf)  
