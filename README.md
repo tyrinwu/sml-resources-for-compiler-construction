@@ -43,6 +43,7 @@
 [CSCE 434-500: Compiler Design](https://parasol.tamu.edu/~rwerger/Courses/434/)  
 [CS 4610 - Programming Languages - Lectures](https://web.eecs.umich.edu/~weimerw/2009-4610/lectures.html)  <- focusing on motivation
 [Compiler course from Northwestern University](http://users.eecs.northwestern.edu/~jesse/course/csg262-sp08/)  
+[Programming Language](https://www.cs.tufts.edu/comp/105-2017f/)  
 
 ### Parsing, grammar, all that good stuff...
 
