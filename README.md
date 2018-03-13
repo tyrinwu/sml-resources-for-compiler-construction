@@ -48,3 +48,8 @@
 ### Parsing, grammar, all that good stuff...
 
 [Right-most derivation?](https://cs.stackexchange.com/questions/54814/different-between-left-most-and-right-most-derivation)
+
+### Things I wished I knew
+
+1. If a function, say A, wants to call function B, B must be defined physically above A.
+2. To access parts of a tuple, use `#N`. (N > 0) e.g. #1 (3, 4) will give you 3.
