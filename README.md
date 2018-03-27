@@ -45,6 +45,9 @@
 [Compiler course from Northwestern University](http://users.eecs.northwestern.edu/~jesse/course/csg262-sp08/)  
 [Programming Language](https://www.cs.tufts.edu/comp/105-2017f/)  
 [Concepts in Programming Languages](https://www.cl.cam.ac.uk/teaching/1011/ConceptsPL/)  
+[Compiler IIT](https://www.cse.iitm.ac.in/~krishna/cs3300/)  
+[Compiler NYU](https://cs.nyu.edu/courses/spring13/CSCI-GA.2130-001/)  
+[Compiler Design II](http://web.cecs.pdx.edu/~apt/cs322/)  
 
 ### Parsing, grammar, all that good stuff...
 
