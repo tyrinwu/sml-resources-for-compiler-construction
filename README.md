@@ -34,6 +34,8 @@
 
 [Strcuture](https://www.cs.cmu.edu/~rwh/introsml/modules/sigstruct.htm)
 
+[Functor Examples](https://gist.github.com/tyrinwu/51d8251c35b35cf908b3254599d4e720)
+
 ### Related Courses
 
 [15-417 HOT Compilation Spring](http://www.cs.cmu.edu/~crary/hotc/)  
@@ -48,6 +50,7 @@
 [Compiler IIT](https://www.cse.iitm.ac.in/~krishna/cs3300/)  
 [Compiler NYU](https://cs.nyu.edu/courses/spring13/CSCI-GA.2130-001/)  
 [Compiler Design II](http://web.cecs.pdx.edu/~apt/cs322/)  
+[CMSC 22610 Implementation of Computer Languages - I](https://www.classes.cs.uchicago.edu/archive/2007/winter/22610-1/)  
 
 ### Parsing, grammar, all that good stuff...
 
