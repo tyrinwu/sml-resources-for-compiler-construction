@@ -60,3 +60,7 @@
 
 1. If a function, say A, wants to call function B, B must be defined physically above A.
 2. To access parts of a tuple, use `#N`. (N > 0) e.g. #1 (3, 4) will give you 3.
+
+### Other things...
+
+[Online OCaml book: Real World OCaml](https://realworldocaml.org/v1/en/html/index.html)
