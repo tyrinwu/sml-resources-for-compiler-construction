@@ -1,5 +1,7 @@
 # Resources related to building compilers with SML/NJ in ECE 553 at Duke
 
+[Advice from another compiler course's instructor](http://www.cs.cornell.edu/courses/cs4120/2018sp/project/how-to-lose.html)
+
 ## Useful Links
 
 [Course Website](https://adhilton.pratt.duke.edu/ece-553-compiler-construction)  
