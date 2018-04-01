@@ -51,6 +51,7 @@
 [Compiler NYU](https://cs.nyu.edu/courses/spring13/CSCI-GA.2130-001/)  
 [Compiler Design II](http://web.cecs.pdx.edu/~apt/cs322/)  
 [CMSC 22610 Implementation of Computer Languages - I](https://www.classes.cs.uchicago.edu/archive/2007/winter/22610-1/)  
+[Compiler in Cornell](http://www.cs.cornell.edu/courses/cs4120/2018sp/)  
 
 ### Parsing, grammar, all that good stuff...
 
@@ -63,4 +64,5 @@
 
 ### Other things...
 
-[Online OCaml book: Real World OCaml](https://realworldocaml.org/v1/en/html/index.html)
+[Online OCaml book: Real World OCaml](https://realworldocaml.org/v1/en/html/index.html)  
+[SML exercises](http://exercism.io/languages/sml/about)
