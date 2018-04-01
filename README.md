@@ -26,7 +26,7 @@
 
 [Importing other modules](https://www.classes.cs.uchicago.edu/archive/2006/fall/15300-1/handouts/sml-load.pdf)  
 
-[Style Guild](https://www.cs.tufts.edu/comp/105-2017f/handouts/mlstyle.pdf)  
+[Style Guide](https://www.cs.tufts.edu/comp/105-2017f/handouts/mlstyle.pdf)  
 
 ### SML Tutorials
 
