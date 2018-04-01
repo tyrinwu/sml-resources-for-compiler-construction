@@ -17,6 +17,8 @@
 
 ### SML
 
+[Data Structures and Functional Programming Using SML](http://www.cs.cornell.edu/courses/cs312/2008sp/)  
+
 [Standard ML of New Jersey User's Guide](http://www.smlnj.org/doc/)   
 [Syntax Cheat Sheet](http://rigaux.org/language-study/syntax-across-languages-per-language/SML.html)   
 [Cheat Sheet 2](http://www.cs.cornell.edu/courses/cs312/2003fa/handouts/cheatsheet.pdf)  
@@ -39,7 +41,6 @@
 ### Related Courses
 
 [15-417 HOT Compilation Spring](http://www.cs.cmu.edu/~crary/hotc/)  
-[Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs312/2008sp/)  
 [Introduction to Type Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15814-f03/www/)  
 [CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/)  
 [CSCE 434-500: Compiler Design](https://parasol.tamu.edu/~rwerger/Courses/434/)  
