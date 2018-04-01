@@ -17,26 +17,19 @@
 
 ### SML
 
-[Data Structures and Functional Programming Using SML](http://www.cs.cornell.edu/courses/cs312/2008sp/)  
-
 [Standard ML of New Jersey User's Guide](http://www.smlnj.org/doc/)   
 [Syntax Cheat Sheet](http://rigaux.org/language-study/syntax-across-languages-per-language/SML.html)   
 [Cheat Sheet 2](http://www.cs.cornell.edu/courses/cs312/2003fa/handouts/cheatsheet.pdf)  
 [Errors Meanings](http://flint.cs.yale.edu/cs421/smlnj/doc/errors.html)   
 [SML mode Ref](https://www.smlnj.org/doc/Emacs/sml-mode.html)  
 [The SML/NJ Compilation and Library Manager](http://smlnj.org/doc/CM/new.pdf)  
-
-[Importing other modules](https://www.classes.cs.uchicago.edu/archive/2006/fall/15300-1/handouts/sml-load.pdf)  
-
 [Style Guide](https://www.cs.tufts.edu/comp/105-2017f/handouts/mlstyle.pdf)  
 
-### SML Tutorials
-
+[Data Structures and Functional Programming Using SML](http://www.cs.cornell.edu/courses/cs312/2008sp/)  
+[Importing other modules](https://www.classes.cs.uchicago.edu/archive/2006/fall/15300-1/handouts/sml-load.pdf)  
 [Tutorial from CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/lectures/lec-sml.pdf)  
-
-[Strcuture](https://www.cs.cmu.edu/~rwh/introsml/modules/sigstruct.htm)
-
-[Functor Examples](https://gist.github.com/tyrinwu/51d8251c35b35cf908b3254599d4e720)
+[Strcuture](https://www.cs.cmu.edu/~rwh/introsml/modules/sigstruct.htm)   
+[Functor Examples](https://gist.github.com/tyrinwu/51d8251c35b35cf908b3254599d4e720)   
 
 ### Related Courses
 
@@ -44,7 +37,7 @@
 [Introduction to Type Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15814-f03/www/)  
 [CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/)  
 [CSCE 434-500: Compiler Design](https://parasol.tamu.edu/~rwerger/Courses/434/)  
-[CS 4610 - Programming Languages - Lectures](https://web.eecs.umich.edu/~weimerw/2009-4610/lectures.html)  <- focusing on motivation
+[CS 4610 - Programming Languages - Lectures](https://web.eecs.umich.edu/~weimerw/2009-4610/lectures.html)  <- focusing on motivation  
 [Compiler course from Northwestern University](http://users.eecs.northwestern.edu/~jesse/course/csg262-sp08/)  
 [Programming Language](https://www.cs.tufts.edu/comp/105-2017f/)  
 [Concepts in Programming Languages](https://www.cl.cam.ac.uk/teaching/1011/ConceptsPL/)  
