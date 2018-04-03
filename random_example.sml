@@ -23,10 +23,10 @@ fun fact_tail2 (0, ans) = ans
 
 fun fact_tail3 x =
     let fun help (0, ans) = ans
-  | help (x, ans) = help(x-1, x * ans)
+          | help (x, ans) = help(x-1, x * ans)
     in 
-help(x, 1)
-  end;
+      help(x, 1)
+    end
 
 
 (* Record: Similar to Dictionary in Python *)
