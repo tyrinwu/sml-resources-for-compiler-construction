@@ -32,6 +32,7 @@
 [Tutorial from CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/lectures/lec-sml.pdf)  
 [Strcuture](https://www.cs.cmu.edu/~rwh/introsml/modules/sigstruct.htm)   
 [Functor Examples](https://gist.github.com/tyrinwu/51d8251c35b35cf908b3254599d4e720)   
+[exception](https://www.cs.cmu.edu/~rwh/introsml/core/exceptions.htm)  
 
 ### Related Courses
 
@@ -48,6 +49,7 @@
 [Compiler Design II](http://web.cecs.pdx.edu/~apt/cs322/)  
 [CMSC 22610 Implementation of Computer Languages - I](https://www.classes.cs.uchicago.edu/archive/2007/winter/22610-1/)  
 [Compiler in Cornell](http://www.cs.cornell.edu/courses/cs4120/2018sp/)  
+[Programming Language](https://courses.cs.washington.edu/courses/cse341/17sp/)  
 
 ### Parsing, grammar, all that good stuff...
 
