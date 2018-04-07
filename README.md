@@ -62,5 +62,6 @@
 
 ### Other things...
 
+[ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html)  
 [Online OCaml book: Real World OCaml](https://realworldocaml.org/v1/en/html/index.html)  
 [SML exercises](http://exercism.io/languages/sml/about)
