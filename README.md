@@ -36,6 +36,7 @@
 
 ### Related Courses
 
+[Yale's Compiler course](http://flint.cs.yale.edu/cs421/)  
 [15-417 HOT Compilation Spring](http://www.cs.cmu.edu/~crary/hotc/)  
 [Introduction to Type Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15814-f03/www/)  
 [CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/)  
