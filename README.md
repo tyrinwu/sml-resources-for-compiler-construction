@@ -51,6 +51,7 @@
 [CMSC 22610 Implementation of Computer Languages - I](https://www.classes.cs.uchicago.edu/archive/2007/winter/22610-1/)  
 [Compiler in Cornell](http://www.cs.cornell.edu/courses/cs4120/2018sp/)  
 [Programming Language](https://courses.cs.washington.edu/courses/cse341/17sp/)  
+[CS320:Compiling Techniques at Princeton](http://www.cs.princeton.edu/courses/archive/spr16/cos320/)
 
 ### Parsing, grammar, all that good stuff...
 
