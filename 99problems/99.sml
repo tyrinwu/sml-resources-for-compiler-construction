@@ -47,7 +47,8 @@ fun isPalindrome l =
 (*P07 Flatten a nested list structure.
  * It depends on what kind of nested list that you are talking about. Is that
  * lists of int lists or lists of mixed-type elements. Here, we solve only the
- * first part: list of lists.
+ * first part: list of lists. To solve the second version, a recursive type
+ * must be defined.
  * *)
 fun flatten [] = []
   | flatten xs =
