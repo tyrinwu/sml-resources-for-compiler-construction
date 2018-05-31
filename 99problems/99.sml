@@ -1,9 +1,10 @@
+(* P01 *)
 fun my_last l = List.last l
 
 (*last l
   returns the last element of l. It raises Empty if l is nil. *)
 
-(*pe·nul·ti·mate*)
+(* P02 pe·nul·ti·mate*)
 fun last_but_one l = if List.length l <= 1
                      then NONE
                      else List.nth (l, List.length(l)-2)
@@ -57,3 +58,9 @@ fun flatten [] = []
   in List.rev (foldl tailHelper [] xs)
   end
 
+(* P08 Eliminate consecutive duplicates of list elements. *)
+fun dedup ([]: string list) = []
+  | dedup [x] = [x]
+  | dedup (x::xs) = case x = List.hd xs of
+                       true => dedup xs
+                     | false => x::dedup xs
