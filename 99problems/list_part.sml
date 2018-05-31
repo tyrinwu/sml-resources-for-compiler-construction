@@ -16,7 +16,7 @@ fun numElements l =
       recur(0, l)
   end
 (* Standard library: List.length l *)
-    
+
 
 (*P05 reverse a list*)
 fun reverse l =
@@ -44,4 +44,15 @@ fun isPalindrome l =
         cmp (splitList(l))
     end
 
-(*P07 Flatten a nested list structure.*)
+(*P07 Flatten a nested list structure.
+ * It depends on what kind of nested list that you are talking about. Is that
+ * lists of int lists or lists of mixed-type elements. Here, we solve only the
+ * first part: list of lists.
+ * *)
+fun flatten [] = []
+  | flatten xs =
+  let fun tailHelper ([], ans) = ans
+        | tailHelper (y::ys, ans) = tailHelper(ys, y::ans)
+  in List.rev (foldl tailHelper [] xs)
+  end
+
